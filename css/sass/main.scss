@@ -1,0 +1,16 @@
+
+
+// Importamos todos los activos sass 
+//base
+@import'base/typography';
+//components
+@import'components/shorts';
+//theme
+@import'theme/theme';
+//layout
+@import'layout/header';
+@import'layout/main';
+@import'layout/aside';
+@import'layout/footer';
+@import'layout/mediaqueries';
+@import'components/buttons';
