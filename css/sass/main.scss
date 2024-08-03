@@ -4,10 +4,12 @@
 //base
 @import'base/typography';
 //components
-@import'components/shorts';
+@import'components/buttons';
 @import'components/carrousel';
-//theme
-@import'theme/theme';
+@import'components/logo';
+@import'components/navbar';
+@import'components/shorts';
+
 //layout
 @import'layout/header';
 @import'layout/main';
@@ -15,3 +17,6 @@
 @import'layout/footer';
 @import'layout/mediaqueries';
 @import'components/buttons';
+
+//theme
+@import'theme/theme';
