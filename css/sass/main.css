@@ -600,7 +600,7 @@ a:hover {
   height: 150vh;
   position: relative;
   /*Al final del url decimos no repeat y center que es la posicion*/
-  background: url(../../assets/img/carro.jpg) no-repeat center;
+  background: url(../../assets/img/11.jpeg) no-repeat center;
   z-index: -10;
   background-size: cover;
   display: flex;
