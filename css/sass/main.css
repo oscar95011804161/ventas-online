@@ -595,7 +595,7 @@ a:hover {
   /*(https://media.sproutsocial.com/uploads/landscape-hero-bg-1.jpg)*/
 }
 
-.background-container2 {
+.background-contenedor2 {
   width: 100%;
   height: 150vh;
   position: relative;
@@ -620,16 +620,4 @@ a:hover {
   background: rgba(250, 250, 250, 0.062745098);
   backdrop-filter: blur(0.4rem);
   -webkit-backdrop-filter: blur(0.4rem);
-}
-
-.background-container2 {
-  width: 100%;
-  height: 150vh;
-  position: relative;
-  /*Al final del url decimos no repeat y center que es la posicion*/
-  background: url(../../assets/img/carro.jpg) no-repeat center;
-  z-index: -10;
-  background-size: cover;
-  display: flex;
-  align-items: center;
 }/*# sourceMappingURL=main.css.map */
