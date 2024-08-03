@@ -24,18 +24,16 @@
     height: 150vh;
     position: relative;
     /*Al final del url decimos no repeat y center que es la posicion*/
-    background:url(../../assets/img/carro.jpeg)
+    background:url(../../assets/img/carro.jpg)
     no-repeat center;
     z-index: -10;
     background-size: cover;
     display:flex;
     align-items: center;
 
-    /*(https://images.pixexid.com/a-4k-ultra-hd-wallpaper-of-a-futuristic-cityscape-at-night-with-neon-lights-ill-u12ywmlh.jpeg)
-    /*(https://img.freepik.com/foto-gratis/pintura-lago-montana-montana-al-fondo_188544-9126.jpg)*/
-    
-    /*(https://media.sproutsocial.com/uploads/landscape-hero-bg-1.jpg)*/
 }
+
+
 
 .card-container{
     width: 25rem;
