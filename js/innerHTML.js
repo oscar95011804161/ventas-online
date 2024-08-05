@@ -14,7 +14,7 @@ whatsapp.innerHTML =`
 			                <div class="content-whatsapp -top"><button type="button" class="closePopup">
 			                      <i class="material-icons icon-font-color">close</i>
 			                    </button> 
-			                   <p>  <img src="assets/img/fondomoto.jpg" width="50">  Hola , ¿en que puedo ayudarte? </p>   
+			                   <p>  <img src="assets/img/ventas-market.jpg" width="50">  Hola , ¿en que puedo ayudarte? </p>   
 			                </div>
 			                <div class="content-whatsapp -bottom">
 			                  <input class="whats-input" id="whats-in" type="text" Placeholder="Enviar mensaje..." />
